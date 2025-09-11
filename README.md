@@ -9,7 +9,7 @@ The goal is to generate insights on cases, deaths, and vaccinations, and present
 
 ## 📂 Project Structure
 
-
+```bash
 COVID_19_EDA/
 │
 ├── data/
