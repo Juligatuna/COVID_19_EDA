@@ -9,20 +9,21 @@ The goal is to generate insights on cases, deaths, and vaccinations, and present
 
 ## 📂 Project Structure
 
+
 COVID_19_EDA/
 │
 ├── data/
-│   ├── covid_snapshot.csv         # Latest snapshot per country
-│   ├── covid_timeseries.csv       # Full historical timeseries
-│   └── cleaned_covid19_data.csv   # Cleaned dataset (latest per country)
+│ ├── covid_snapshot.csv # Latest snapshot per country
+│ ├── covid_timeseries.csv # Full historical timeseries
+│ └── cleaned_covid19_data.csv # Cleaned dataset (latest per country)
 │
 ├── notebooks/
-│   └── covid_eda.ipynb            # Jupyter notebook for data cleaning & EDA
+│ └── covid_eda.ipynb # Jupyter notebook for data cleaning & EDA
 │
 ├── dashboard/
-│   └── covid_dashboard.pbix       # Power BI dashboard file
+│ └── covid_dashboard.pbix # Power BI dashboard file
 │
-└── README.md                      # Project documentation
+└── README.md # Project documentation
 
 ---
 
