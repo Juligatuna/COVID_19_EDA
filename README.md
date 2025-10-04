@@ -1,9 +1,18 @@
 # COVID-19 Exploratory Data Analysis (EDA) & Power BI Dashboard
 
 📊 Repository: [COVID_19_EDA](https://github.com/Juligatuna/COVID_19_EDA.git)
+ 
+This project uses Python (Pandas, Matplotlib) for **data cleaning, transformation, and wrangling** of global COVID-19 datasets, followed by **interactive Power BI dashboard** visualization to analyze infection rates, vaccination progress, and regional patterns.
 
-This project explores global COVID-19 data through **data cleaning, analysis, and visualization**.  
-The goal is to generate insights on cases, deaths, and vaccinations, and present them in an **interactive Power BI dashboard**.
+Key Highlights:
+
+Conducted Python-based data wrangling and preprocessing
+
+Designed Power BI dashboards for regional comparisons
+
+Applied statistical analysis for trend identification
+
+Highlighted public health insights using data-driven storytelling **interactive Power BI dashboard**.
 
 ---
 
